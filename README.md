@@ -1,4 +1,4 @@
-# GATOLauncher
+# MellowMC Launcher
 
 Project: Custom Minecraft Launcher
 
