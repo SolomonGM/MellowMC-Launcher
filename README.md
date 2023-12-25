@@ -51,6 +51,7 @@ Develop a custom Minecraft launcher using C# that provides additional features b
 + C# for the desktop application.
 + WPF (Windows Presentation Foundation) for the user interface.
 + JSON for configuration file storage.
++ Website to install application (frontend Web Development).
 + Minecraft API for version and profile management.
 + Networking libraries for authentication.
 
