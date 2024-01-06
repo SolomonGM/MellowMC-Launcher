@@ -3,7 +3,7 @@
 Project: Custom Minecraft Launcher
 
 ## Description:
-Develop a custom Minecraft launcher using C# that provides additional features beyond the standard Minecraft launcher. This launcher will allow users to manage multiple Minecraft profiles, mods, and configurations easily.
+Develop a custom Minecraft launcher using C# that provides additional features beyond the standard Minecraft launcher. This launcher will allow users to manage multiple Minecraft profiles, mods, and configurations easily. s
 
 ## Features:
 
